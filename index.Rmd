@@ -47,7 +47,7 @@ row_spec(0, bold = T, color = "white", background = "black")  %>%
 _**Barcelona**_ {data-width=850}
 -------------------------------------------
 
-### Budget as of Agust 19th, 2020
+### Budget as of Agust 20th, 2020
 
 <br><br>
 
